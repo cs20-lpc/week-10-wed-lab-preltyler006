@@ -1,0 +1,25 @@
+banana  hashes to slot 84
+cactus  hashes to slot 8
+dog     hashes to slot 24
+graph   hashes to slot 75
+haskell hashes to slot 25
+igloo   hashes to slot 48
+phoenix hashes to slot 58
+quack   hashes to slot 48
+Welcome to my open hash table dictionary program!
+Here are your options:
+        1. Find
+        2. Insert
+        3. Remove
+        4. Size
+        5. Clear
+        6. Quit
+Enter your option: 1
+Enter a key to search my dictionary: 58
+58      hashes to slot 89
+error: key not found
+Enter your option: 1
+Enter a key to search my dictionary: graph
+graph   hashes to slot 75
+an awesome data structure!
+Enter your option: 6
